@@ -51,7 +51,8 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
-flutter: assets_audio.wav,
+flutter: 
+assets: assets_audio.wav,
 img.jpg,
 C4D+AE  butterfly.mp4
 
