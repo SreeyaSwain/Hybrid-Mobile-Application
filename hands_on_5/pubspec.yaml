@@ -51,7 +51,10 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
-flutter:
+flutter: assets_audio.wav,
+img.jpg,
+C4D+AE  butterfly.mp4
+
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
